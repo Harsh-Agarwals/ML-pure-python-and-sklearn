@@ -31,3 +31,7 @@ Following Supervised and Unsupervised algorithms are covered in this sklearn and
 
 All models have been developed using sklearn and few models are developed using pure python(using numpy) too. 
 Naive Bayes, Boosting algorithms and algorithms that are not coded in pure python will be put in few days.
+
+### 2 kaggle projects are also included in Full ML projects folder-
+- Australia rain dataset project
+- heart disease project
